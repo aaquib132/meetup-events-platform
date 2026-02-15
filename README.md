@@ -54,9 +54,9 @@ The application features a clean, responsive UI styled with **Tailwind CSS**, en
 |:---:|
 |  <img src="frontend/public/github_readme/HomePage_Screenshot.png" alt="Home Page" width="100%">|
 
-| Event Details (Bottom) | Event Details (Top) |
+| Event Details (Top) | Event Details (Bottom) |
 |:---:|:---:|
-| <img src="frontend/public/github_readme/DetailsPage_LowerArea_Screenshot.png.png" alt="Event Details Bottom" width="100%"> | <img src="frontend/public/github_readme/DetailsPage_UpperArea_Screenshot.png" alt="Event Details Top" width="100%"> |
+| <img src="frontend/public/github_readme/DetailsPage_UpperArea_Screenshot.png" alt="Event Details Top" width="100%"> | <img src="frontend/public/github_readme/DetailsPage_LowerArea_Screenshot.png.png" alt="Event Details Bottom" width="100%"> |
 
 ## 🚀 Installation & Setup
 
