@@ -45,7 +45,7 @@ The application features a clean, responsive UI styled with **Tailwind CSS**, en
 
 ### 🎥 Demo Video
 
-[Watch Demo Video](frontend/public/github_readme/MeetUp_Demo_video.mp4)
+https://github.com/user-attachments/assets/635c6b32-05d2-486f-b82b-adb16055a8ec
 *(Download or View Raw on GitHub)*
 
 ### 🖼️ Application Interface
