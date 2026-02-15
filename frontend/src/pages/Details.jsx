@@ -6,7 +6,7 @@ import { Clock, MapPin, IndianRupee } from "lucide-react";
 const Details = () => {
   const { eventId } = useParams();
   const { data, loading, error } = useFetch(
-    `http://localhost:3000/events/${eventId}`,
+    `https://meetup-events-platform.onrender.com/events/${eventId}`,
   );
 
   console.log(data);
