@@ -1,7 +1,7 @@
 # Meetup Events
 
 <div align="center">
-  <img src="frontend/public/logo.png" alt="Meetup Events Logo" width="220" />
+  <img src="frontend/public/logo1.png" alt="Meetup Events Logo" width="120" />
   <h1>Meetup Events</h1>
   <p><strong>A full-stack application for browsing, filtering, and managing community events.</strong></p>
 </div>
