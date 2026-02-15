@@ -45,7 +45,7 @@ The application features a clean, responsive UI styled with **Tailwind CSS**, en
 
 ### 🎥 Demo Video
 
-https://github.com/user-attachments/assets/635c6b32-05d2-486f-b82b-adb16055a8ec
+<video src="https://github.com/user-attachments/assets/635c6b32-05d2-486f-b82b-adb16055a8ec" controls="controls" style="max-width: 100%;"></video>
 *(Download or View Raw on GitHub)*
 
 ### 🖼️ Application Interface
