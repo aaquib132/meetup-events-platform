@@ -6,6 +6,12 @@
   <p><strong>A full-stack application for browsing, filtering, and managing community events.</strong></p>
 </div>
 
+<div align="center">
+  <h3>
+    <a href="https://meetup-events-platform.vercel.app/">Live Website Demo</a>
+  </h3>
+</div>
+
 ---
 
 ## 📖 Overview
