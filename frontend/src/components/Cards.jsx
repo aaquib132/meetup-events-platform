@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import useFetch from "../useFetch";
 
 const Cards = ({ filter, search }) => {
-  const { data, loading, error } = useFetch("http://localhost:3000/events");
+  const { data, loading, error } = useFetch("https://meetup-events-platform.onrender.com/events");
 
   console.log(data)
   if (loading) return <p className="text-center mt-10">Loading...</p>;
