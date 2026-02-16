@@ -140,9 +140,6 @@ const Details = () => {
                 ))}
               </div>
 
-              <button className="w-full bg-red-400 text-white py-3 rounded-xl font-semibold hover:scale-[1.02] transition">
-                RSVP
-              </button>
             </div>
           </div>
         </div>
